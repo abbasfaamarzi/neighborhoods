@@ -40,8 +40,7 @@ INSTALLED_APPS = [
     'neighbors',
     'rest_framework',
     'django_filters',
-    'activity',
-    'snippets',
+
 
 ]
 
